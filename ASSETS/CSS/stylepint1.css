@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+
+
+img{
+    width: 8rem;
+    height: 3rem;
+}
+
+
+.carousel-item {
+    margin: 0px;
+    width: 25rem;
+    height: 25rem;
+}
+.container-propio{
+    max-width: 90%;
+    margin: 0 auto;
+}
